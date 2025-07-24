@@ -1,0 +1,126 @@
+    1  pwd
+    2  ls
+    3  exit
+    4  exit
+    5  pwd
+    6  ls
+    7  cd git
+    8  clear
+    9  git config --global user.name "Yevheniia Shestina"
+   10  git config -global user.name "Yevheniia Shestina"
+   11  clear
+   12  cd git
+   13  git config -global user.name "Yevheniia Shestina"
+   14  whoami
+   15  history -c && rm ~
+   16  clear
+   17  git config -global user.name "Yevheniia Shestina"
+   18  git config --global user.name "Yevheniia Shestina"
+   19  git config --global user.email evgenia.shestina@gmail.com
+   20  cd git
+   21  git clone https://github.com/yevheniia0604/HW_10.git
+   22  cd HW_10
+   23  git status
+   24  touch text_ignore.txt
+   25  nano.gitignore
+   26  nano gitignore
+   27  git status
+   28  nano gitignore
+   29  git status
+   30  nano gitstatus
+   31  git status
+   32  pwd
+   33  rm /Users/yevheniiashestina/Desktop/git/HW_10 gitstatus
+   34  git status
+   35  nano gitignore
+   36  git status
+   37  nano gitignore
+   38  git status
+   39  pwd
+   40  rm/Users/yevheniiashestina/Desktop/git/HW_10/gitignoreyy
+   41  git status
+   42  rm/Users/yevheniiashestina/Desktop/git/HW_10/gitignoreyy
+   43  rm /Users/yevheniiashestina/Desktop/git/HW_10/gitignoreyy
+   44  git status
+   45  nano .gitignore
+   46  nano gitignore
+   47  git status
+   48  cd
+   49  pwd
+   50  ls
+   51  cd Desktop
+   52  pwd
+   53  cd HW_10
+   54  cd git
+   55  pwd
+   56  git status
+   57  cd HW_10
+   58  git status
+   59  rm /Users/yevheniiashestina/Desktop/git/.gitignore.save
+   60  rm /Users/yevheniiashestina/Desktop/git/gitignore.save
+   61  git status
+   62  rm /Users/yevheniiashestina/Desktop/git/HW_10/gitignore.save\n
+   63  rm rm /Users/yevheniiashestina/Desktop/git/HW_10/.gitignore.save\n
+   64  git status\\ngit status
+   65  git status
+   66  nano gitignore
+   67  git status
+   68  nano gitignore
+   69  git status
+   70  vim gitignore
+   71  cd Desctop
+   72  git status
+   73  cd HW_10
+   74  cd git
+   75  pwd
+   76  ls
+   77  cd Desktop
+   78  cd git
+   79  cd HW_10
+   80  git status
+   81  vim gitignore
+   82  git status
+   83  git ls-files --stage | grep text_ignore.txt\n
+   84  пше іефегі
+   85  git status
+   86  git rm --cached text_ignore.txt
+   87  git status
+   88  mv gitignore .gitignore
+   89  git status\n
+   90  git add .gitignore
+   91  git commit
+   92  cd Desktop
+   93  cd git
+   94  cd HW_10
+   95  touch main_test.txt
+   96  fit status
+   97  git status
+   98  git add.main_test.txt
+   99  git add main_test.txt
+  100  git status
+  101  git commit
+  102  git status
+  103  git commit
+  104  git status
+  105  cd HW_10
+  106  git status
+  107  git commit
+  108  git commit -m "Add empty main_test.txt file"
+  109  git status
+  110  new branch develop
+  111  branch develop
+  112  git branch develop
+  113  git checkout develop
+  114  touch develop_test.txt
+  115  git add .
+  116  git status
+  117  git commit -m "Add empty develop_test.txt file"
+  118  nano develop_test.txt
+  119  git status
+  120  git add .
+  121  git commit -m "Add small change to develop_test.txt"
+  122  git checkout main
+  123  merge develop
+  124  git merge develop
+  125  git log
+  126  git branch --merged main
